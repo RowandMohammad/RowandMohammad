@@ -2,11 +2,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a recent MSc graduate in Machine Learning from Royal Holloway University of London, passionate about data science, machine learning, and building efficient applications. I enjoy solving complex problems through code and am always looking to broaden my skills in the latest technologies.
+I'm a recent MSc graduate in Machine Learning from Royal Holloway University of London, passionate about software development, machine learning, and building efficient applications. I enjoy solving complex problems through code and am always looking to broaden my skills in the latest technologies.
 
 ## 🚀 What I'm Up To
 
-- 🤖 Implementing and comparing machine learning algorithms across datasets in healthcare and finance.
+- 🤖 Implementing and comparing machine learning algorithms across datasets in sports and finance.
 - 💻 Developing full-stack applications using React.js, Spring Boot, and AWS.
 
 Check out my [coding portfolio](https://rowandsmohammad.com)!
