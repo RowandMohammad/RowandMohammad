@@ -1,21 +1,21 @@
 # Hi 👋 I'm Rowand Mohammad
 
-## 💫 About Me:
-I am a recent MSc graduate in Machine Learning from Royal Holloway University of London, with a strong foundation in computer science and a passion for exploring data science, machine learning, and building efficient applications. I'm always eager to learn new technologies and apply them to solve real-world problems.
+## 🧑‍💻 About Me
 
-## 🚀 What I'm Up To:
-- 🤖 Implementing machine learning algorithms and comparing their performance across various datasets, including healthcare and finance.
-- 💻 Building full-stack applications with React.js, Spring Boot, and AWS.
+I'm a recent MSc graduate in Machine Learning from Royal Holloway University of London, passionate about data science, machine learning, and building efficient applications. I enjoy solving complex problems through code and am always looking to broaden my skills in the latest technologies.
+
+## 🚀 What I'm Up To
+
+- 🤖 Implementing and comparing machine learning algorithms across datasets in healthcare and finance.
+- 💻 Developing full-stack applications using React.js, Spring Boot, and AWS.
 
 Check out my [coding portfolio](https://rowandsmohammad.com)!
 
-## 🎓 About Me:
-I'm also involved in community work, where I share my coding journey and insights on social media. Feel free to reach out if you're interested in data science, machine learning, or need any advice on software development!
+## 🌱 Core Principles
 
-Follow me on:
-- [Instagram](#)
-- [TikTok](#)
-- [YouTube](#)
+- **Continuous Learning**: Embrace learning in every project and challenge.
+- **Collaboration**: Thrive in team settings, sharing knowledge and insights.
+- **Integrity & Respect**: Act with honesty and uphold respect in all interactions.
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/rowandmohammad/)
