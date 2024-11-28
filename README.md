@@ -7,9 +7,9 @@ I'm a recent MSc graduate in Machine Learning from Royal Holloway University of 
 ## 🚀 What I'm Up To
 
 - 🤖 Implementing and comparing machine learning algorithms across datasets in sports and finance.
-- 💻 Developing full-stack applications using React.js, Spring Boot, and AWS.
+- 💻 Developing full-stack applications using React.js, Node.js, and AWS.
 
-Check out my [coding portfolio](https://rowandsmohammad.com)!
+Check out my [portfolio](https://rowandsmohammad.com)!
 
 ## 🌱 Core Principles
 
