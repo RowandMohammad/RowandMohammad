@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a recent MSc graduate in Machine Learning from Royal Holloway University of London, passionate about software development, machine learning, and building efficient applications. I enjoy solving complex problems through code and am always looking to broaden my skills in the latest technologies.
+I'm a recent MSc graduate in Machine Learning from Royal Holloway University of London, passionate about technical solutiona, software development, machine learning, and building efficient applications. I enjoy solving complex problems and am always looking to broaden my skills in the latest technologies.
 
 ## 🚀 What I'm Up To
 
